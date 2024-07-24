@@ -1,6 +1,7 @@
-# hello
+# ReadMe-Generator
+
   ## Description
-  hello
+  We were tasked in our Bootcamp to create a README generator using Node.JS
   
   ## Table of Contents
   - [Installation](#installation)
@@ -11,18 +12,17 @@
   - [Questions](#questions)
   
 ## Installations
+use the node index.js command in the terminal
 
 ## Usage
-hello
+To use the skills we've learned in class to build a README-generator. Here is a video walkthrough - https://app.screencastify.com/v3/watch/2ZnySVOMS8l7M2unvMQb
 
-## Contributing
-hello
+## Credits
+MDN, W3Schools
 
-## Tests
-undefined
 
 ## License
-This project is under the MIT license.
+None
 
 ## Questions:
-Feel free to reach out on Github: nmahban
+Feel free to reach out on Github for further questions: nmahban
